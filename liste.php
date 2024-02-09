@@ -33,7 +33,8 @@ if(isset($_POST['note'])){
      ?>
         <div class="card" style="width: 18rem; color: black;  background-color:brown;">
   <div class="card-body">
-    <h5 class="card-title">Nouvelle Note:</h5>
+    <h5 class="card-title">This is a new Note :</h5>
+    <h4>----------------note-------------</h4>
     <p class="card-text"><?php 
          echo "$note" 
         ?></p>

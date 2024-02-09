@@ -18,7 +18,7 @@ else{
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="node_modules/bootswatch/dist/lux//bootstrap.css">
-    <title>Document</title>
+    <title>Note</title>
 </head>
 
 <div class="container">
@@ -37,7 +37,7 @@ else{
   </div>
   <button
    type="submit" 
-   class="btn btn-primary">ADD</button>
+   class="btn btn-primary">ADD new note</button>
 </form>
     </div>
 
